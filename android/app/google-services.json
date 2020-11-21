@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "525509668294",
+    "firebase_url": "https://civideoconnectapp.firebaseio.com",
+    "project_id": "civideoconnectapp",
+    "storage_bucket": "civideoconnectapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525509668294:android:8800b725123032c43756c7",
+        "android_client_info": {
+          "package_name": "com.ci.civideoconnectadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525509668294-e4ddh9ncp0com5edbh8nq4rbfhjf1d1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAszDfBJdDv1cPr38hFlWCi8RaM6NUa_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525509668294-e4ddh9ncp0com5edbh8nq4rbfhjf1d1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525509668294:android:db7ceccb53cb1ca23756c7",
+        "android_client_info": {
+          "package_name": "com.ci.civideoconnectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525509668294-b5ar5lgi84bt2joct8tmj49ra16pfllv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ci.civideoconnectapp",
+            "certificate_hash": "6668a681b0a46513f7d6c33832e1818216021baf"
+          }
+        },
+        {
+          "client_id": "525509668294-e4ddh9ncp0com5edbh8nq4rbfhjf1d1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAszDfBJdDv1cPr38hFlWCi8RaM6NUa_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525509668294-e4ddh9ncp0com5edbh8nq4rbfhjf1d1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525509668294:android:d81030a2f7a646c23756c7",
+        "android_client_info": {
+          "package_name": "com.example.civideoconnectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525509668294-e4ddh9ncp0com5edbh8nq4rbfhjf1d1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAszDfBJdDv1cPr38hFlWCi8RaM6NUa_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525509668294-e4ddh9ncp0com5edbh8nq4rbfhjf1d1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525509668294:android:ff92a50156e86b283756c7",
+        "android_client_info": {
+          "package_name": "com.myapp.ciPatientApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525509668294-4b0lm7d4cto6a9vj5eamvuk91t5mpj6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.ciPatientApp",
+            "certificate_hash": "6668a681b0a46513f7d6c33832e1818216021baf"
+          }
+        },
+        {
+          "client_id": "525509668294-e4ddh9ncp0com5edbh8nq4rbfhjf1d1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAszDfBJdDv1cPr38hFlWCi8RaM6NUa_7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525509668294-e4ddh9ncp0com5edbh8nq4rbfhjf1d1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
